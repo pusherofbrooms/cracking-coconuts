@@ -1,0 +1,7 @@
+* What's this About?
+The intent of this text is to teach you general problem solving skills. We'll cover the following topics:
+- Finding worthy problems
+- Quickly evaluating problems
+- Solving the problem
+* The World is Full of Problems
+The astute observer may have noticed that the world is full of problems, from large and almost intractable, to trivial. Even with seven billion people in this wonderful world, there are problems aplenty for everyone.
