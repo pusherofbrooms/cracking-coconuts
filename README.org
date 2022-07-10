@@ -16,4 +16,6 @@ Before you tackle a problem, you'll need to determine if it is within your abili
 * Is the problem worth solving?
 As you get practiced at finding problems, you may become overwhelmed by their number and variety. The guidance here would be to work on problems that interest you. Maybe this interest is driven externally; your boss needs his computer fixed or your partner would like the garden box built this weekend. Maybe your interest is driven internally; setting up that go-bag in case of emergency or finally setting up that solar charging station for your camping trip. Ultimately, it's up to you to determine whether a problem is worth solving.
 * The problem solving loop
-Now that you have selected your problem, you will need to start the process of solving it. For trivial problems (defined as a problem that is easy to solve for *you*), the process may be very simple. 
+Now that you have selected your problem, you will need to start the process of solving it.
+
+For trivial problems (defined as a problem that is easy to solve *for you*), the process may be very simple. 
