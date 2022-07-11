@@ -23,6 +23,13 @@ Before you tackle a problem, you'll need to determine if it is within your abili
 As you get practiced at finding problems, you may become overwhelmed by their number and variety. The guidance here would be to work on problems that interest you. Maybe this interest is driven externally; your boss needs his computer fixed or your partner would like the garden box built this weekend. Maybe your interest is driven internally; setting up that go-bag in case of emergency or finally setting up that solar charging station for your camping trip. Ultimately, it's up to you to determine whether a problem is worth solving.
 
 * The problem solving loop
-Now that you have selected your problem, you will need to start the process of solving it.
+Now that you have selected your problem, you will need to start the process of solving it. The summary of the process is:
+1. Gather data to understand the problem.
+2. Gather options to solve the problem.
+3. Choose your solution.
+4. Implement your solution.
+5. Evaluate the effectiveness of the solution (Stop here if you consider the problem solved)
+6. Is it still worthwhile pursuing this problem? If so, repeat from step 1.
 
 For trivial problems (defined as a problem that is easy to solve *for you*), the process may be very simple. 
+
