@@ -5,16 +5,17 @@ The intent of this text is to teach you general problem solving skills. We'll co
 - Solving the problem
 
 * The world is full of problems
-The world is full of problems, from large and almost intractable, to trivial. Even with seven billion people in this wonderful world, there are problems aplenty for everyone. Our problems range from the global; war, poverty, needless death, limited resources, to the more simple; lawn mower needs fixing, math homework problems, automating backups of your computer. Everyone has problems to solve. The more efficiently you can solve them, the better your life can be.
+The world is a vast and complex place full of interesting problems, from large and almost intractable, to trivial. Even with seven billion people, there are problems aplenty for everyone. Our problems range from the global; war, poverty, needless death, limited resources, to the more simple; lawn mower needs fixing, math homework problems, automating backups of your computer. Everyone has problems to solve. The more efficiently you can solve them, the better your life can be.
 
 * So many problems, where should I start?
-If you have a regular job, your boss may hand you problems. If you don't have a job, that's a problem to consider solving. If you have free time, maybe you can find some problems close by to solve. If you're retired, you can always make up problems called hobbies.
+Sometimes, problems find you. Sometimes you go searching for problems. Choosing the right problems to tackle will help you make more of an impact. The art of prioritizing problems is a topic unto itself. [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Maslow's hierarchy of needs]] may be a good model to use when selecting problems to solve. Start at the bottom of the problem pyramid and work your way up. Stephen Covey's time management matrix is also a useful tool for selecting problems. See a simplified table below:
 
-The art of prioritizing problems is a topic unto itself. [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Maslow's hierarchy of needs]] may be a good model to use when selecting problems to solve. Start at the bottom of the problem pyramid and work your way up. Stephen Covey's time management matrix is also a useful tool for selecting problems. See a simplified table below:
 |               | urgent   | not urgent  |
 |---------------+----------+-------------|
 | important     | Do first | Do second   |
 | not important | Do third | Do some day |
+
+If you have a regular job, your boss may hand you problems. If you don't have a job, that's a problem to consider solving. If you have free time, maybe you can find some problems close by to solve. If you're retired, you can always make up problems called hobbies.
 
 * Can I solve the problem?
 Before you tackle a problem, you'll need to determine if it is within your ability to solve in a reasonable time. Depending on your situation, you may not know if you can solve the problem up front. Tackling problems that are just beyond your current abilities is a good way to grow, so don't be afraid of problems just because you don't currently have the tools or skill set to solve them. On the other hand, you may need to re-scope the problem or abandon it later if you find you are not making progress on the problem.
